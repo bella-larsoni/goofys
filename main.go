@@ -16,8 +16,8 @@
 package main
 
 import (
-	goofys "github.com/kahing/goofys/api"
-	. "github.com/kahing/goofys/internal"
+	goofys "github.com/bella-larsoni/goofys/api"
+	. "github.com/bella-larsoni/goofys/internal"
 
 	"fmt"
 	"os"
